@@ -11,7 +11,7 @@ body{
 #div1{
     height:80vh ;
     width: 100%;
-    background: url("/parallex-website/images/image.webp");
+    background: url("https://images.unsplash.com/photo-1729709848504-f10eee70e60b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDI4fEZrV1hHNVRSMjA0fHxlbnwwfHx8fHw%3D");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -38,7 +38,7 @@ body{
   
     height:80vh ;
     width: 100%;
-    background: url("/images/Img2.webp");
+    background: url("https://images.unsplash.com/photo-1731532034431-be28681ed7b7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxM3x8fGVufDB8fHx8fA%3D%3D");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -49,7 +49,7 @@ body{
 #div3{
     height:80vh ;
     width: 100%;
-    background: url("/images/img1.webp");
+    background: url("https://images.unsplash.com/photo-1732123197858-3200cfa9097c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8RmtXWEc1VFIyMDR8fGVufDB8fHx8fA%3D%3D");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
